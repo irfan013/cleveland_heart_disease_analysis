@@ -30,3 +30,5 @@ Dataset source: https://archive.ics.uci.edu/ml/datasets/heart+disease
  - Performing the training with Decision Tree Classifier
  - Producing a tree diagram of the Decision Tree
  - Finding the Confusion Matrix, Classification report, and ROC-AUC
+
+Update: 09 October 2021
